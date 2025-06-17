@@ -1,0 +1,32 @@
+.cart-summary-container {
+  padding: 16px;
+  background-color: #f1f5f9;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  margin-top: 24px;
+  text-align: right;
+}
+
+.order-total {
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+
+.total-amount {
+  font-weight: bold;
+  color: #2d3748;
+}
+
+.total-items {
+  margin-bottom: 16px;
+  color: #4a5568;
+}
+
+.checkout-button {
+  padding: 8px 16px;
+  background-color: #3b82f6;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
